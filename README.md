@@ -1,4 +1,6 @@
 # securityheaders
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/0d86f792-6a98-4f82-96ea-e9156adf8743.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/securityheaders?orgId=320408544746)  
 Python script to check HTTP security headers
 
 Same functionality as securityheaders.io but as Python script. Also checks some server/version headers. Written and tested using Python 3.4.
